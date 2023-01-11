@@ -7,7 +7,7 @@ Have you ever wondered when the best time of year to book a hotel room is? Or th
 
 ## 📖Conclusion
 We can say City hotel is the busiest hotel beacuse it is the most preferred hotel type by the guests.
-Out of the all bookings around 27.5% bookings were got canceled.
+* Out of the all bookings around 27.5% bookings were got canceled.
 New guets percentage is 95.1%, only 4.92 % people were revisited the hotels. Thus we can say retention rate is low.
 Most of the bookings for City hotels and Resort hotel were happened in 2016.
 Optimal stay in both the type hotel is less than 7 days. Usually people stay for a week.
